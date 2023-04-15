@@ -1,0 +1,11 @@
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\xblive\xbLive\xbLive\Stealth-Linux\bin\Debug\netcoreapp2.1\xblive-linux.deps.json
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\xblive\xbLive\xbLive\Stealth-Linux\bin\Debug\netcoreapp2.1\xblive-linux.runtimeconfig.json
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\xblive\xbLive\xbLive\Stealth-Linux\bin\Debug\netcoreapp2.1\xblive-linux.runtimeconfig.dev.json
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\xblive\xbLive\xbLive\Stealth-Linux\bin\Debug\netcoreapp2.1\xblive-linux.dll
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\xblive\xbLive\xbLive\Stealth-Linux\bin\Debug\netcoreapp2.1\xblive-linux.pdb
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\xblive\xbLive\xbLive\Stealth-Linux\obj\Debug\netcoreapp2.1\xblive-linux.csprojAssemblyReference.cache
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\xblive\xbLive\xbLive\Stealth-Linux\obj\Debug\netcoreapp2.1\xblive-linux.csproj.CoreCompileInputs.cache
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\xblive\xbLive\xbLive\Stealth-Linux\obj\Debug\netcoreapp2.1\xblive-linux.AssemblyInfoInputs.cache
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\xblive\xbLive\xbLive\Stealth-Linux\obj\Debug\netcoreapp2.1\xblive-linux.AssemblyInfo.cs
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\xblive\xbLive\xbLive\Stealth-Linux\obj\Debug\netcoreapp2.1\xblive-linux.dll
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\xblive\xbLive\xbLive\Stealth-Linux\obj\Debug\netcoreapp2.1\xblive-linux.pdb

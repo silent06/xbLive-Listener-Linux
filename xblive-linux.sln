@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xblive-linux", "xblive-linux.csproj", "{31CA5783-320B-4C48-837C-95E021304F7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31CA5783-320B-4C48-837C-95E021304F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31CA5783-320B-4C48-837C-95E021304F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31CA5783-320B-4C48-837C-95E021304F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31CA5783-320B-4C48-837C-95E021304F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {054E8416-44AD-4D73-9D31-62F3F361BB2B}
+	EndGlobalSection
+EndGlobal
